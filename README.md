@@ -15,6 +15,12 @@ image_picker: ^0.5.3+1
 ## App
  This app allows us to upload an image file from local gallery. Once the image is choosen, then that image will be show in the body element of the app.
 
+> Visit My Channel for more Flutter Tutorials: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
+
+------------------
+
+## Sample Results
+
 <img src="https://user-images.githubusercontent.com/58719230/89412969-9aea8f00-d745-11ea-9e4a-7e94bcb2e80f.png" width="450" height="550">
 
 
