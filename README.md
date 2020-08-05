@@ -1,16 +1,22 @@
-# imageupload
+## Image Upload | Gallery
 
-A new Flutter project.
+Simple image uploader in Flutter
 
-## Getting Started
+[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/imageupload)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/imageupload)
 
-This project is a starting point for a Flutter application.
+## Flutter
+[Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependencies
+```
+image_picker: ^0.5.3+1
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## App
+ This app allows us to upload an image file from local gallery. Once the image is choosen, then that image will be show in the body element of the app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/58719230/89412969-9aea8f00-d745-11ea-9e4a-7e94bcb2e80f.png" width="450" height="550">
+
+
+## :mag_right: Quick Look  
+<img src="https://user-images.githubusercontent.com/58719230/89413217-12b8b980-d746-11ea-89d9-b456030b304d.png" >
